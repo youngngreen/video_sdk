@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://lab.videosdk.live/react-hls-demo/",
   "dependencies": {
-    "@headlessui/react": "^1.4.1",
+    "@headlessui/react": "^1.7.15",
     "@heroicons/react": "^1.0.2",
     "@popperjs/core": "^2.9.2",
     "@videosdk.live/react-sdk": "^0.1.73",
